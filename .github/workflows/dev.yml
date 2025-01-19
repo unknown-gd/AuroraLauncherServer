@@ -2,7 +2,7 @@ name: LaunchServer - Dev Build
 
 on:
   push:
-    branches: [deb]
+    branches: [dev]
 
 jobs:
   build:
